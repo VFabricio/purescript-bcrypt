@@ -1,0 +1,21 @@
+{
+    "name": "purescript-bcrypt",
+    "license": [
+        "MIT"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/VFabricio/purescript-bcrypt.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-aff": "^v5.1.2",
+        "purescript-effect": "^v2.0.1",
+        "purescript-psci-support": "^v4.0.0"
+    }
+}
