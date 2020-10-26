@@ -1,0 +1,31 @@
+{
+  "name": "purescript-bcrypt",
+  "version": "0.1.0",
+  "description": "\"A Purescript wrapper for the Node.js bcrypt library.\"",
+  "main": "none",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "spago -x test.dhall test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VFabricio/purescript-bcrypt.git"
+  },
+  "keywords": [
+    "purescript",
+    "crypto",
+    "bcrypt"
+  ],
+  "author": "Vilson Fabricio Juliatto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VFabricio/purescript-bcrypt/issues"
+  },
+  "homepage": "https://github.com/VFabricio/purescript-bcrypt#readme"
+}
